@@ -3,7 +3,12 @@
 窗体应用       
 ![黄历](https://github.com/tp1415926535/Almanac/raw/main/%E6%88%AA%E5%9B%BE/%E9%BB%84%E5%8E%86.jpg)   
 ![月历](https://github.com/tp1415926535/Almanac/raw/main/%E6%88%AA%E5%9B%BE/%E6%9C%88%E5%8E%86.jpg)
-# 功能
+
+## 下载 v1.0.1.0
+* [github](https://github.com/tp1415926535/Almanac/raw/main/%E9%BB%84%E5%8E%86v1.0.1.0.zip)
+* [蓝奏云](https://wwp.lanzn.com/i5DtC1yhkkle)
+
+## 功能
 * 黄历
   * 当前时间
   * 所选时间
@@ -36,5 +41,11 @@
 * 自定义
   * 可以更改配置 data.json 调整文本解释描述
   * 支持开机自启（右键托盘菜单选择）
- 
+* 程序进程锁，只能启用一个程序，重复打开会显示已启动的进程。
+
 ![说明](https://github.com/tp1415926535/Almanac/blob/main/%E6%88%AA%E5%9B%BE/%E8%AF%B4%E6%98%8E.jpg)
+
+
+## 更新说明
+* v1.0.1.0 2024/5/12 支持毛玻璃效果
+* v1.0.0.0 基本功能
