@@ -1,7 +1,8 @@
 # 黄历[Almanac]
 
-窗体应用
-
+窗体应用       
+![黄历](https://github.com/tp1415926535/Almanac/raw/main/%E6%88%AA%E5%9B%BE/%E9%BB%84%E5%8E%86.jpg)   
+![月历](https://github.com/tp1415926535/Almanac/raw/main/%E6%88%AA%E5%9B%BE/%E6%9C%88%E5%8E%86.jpg)
 # 功能
 * 黄历
   * 当前时间
@@ -34,4 +35,6 @@
   * 置顶按钮
 * 自定义
   * 可以更改配置 data.json 调整文本解释描述
-  * 支持开机自启
+  * 支持开机自启（右键托盘菜单选择）
+ 
+![说明](https://github.com/tp1415926535/Almanac/blob/main/%E6%88%AA%E5%9B%BE/%E8%AF%B4%E6%98%8E.jpg)
