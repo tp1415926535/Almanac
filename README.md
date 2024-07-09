@@ -4,10 +4,10 @@
 ![黄历](https://github.com/tp1415926535/Almanac/raw/main/%E6%88%AA%E5%9B%BE/%E9%BB%84%E5%8E%86.jpg)   
 ![月历](https://github.com/tp1415926535/Almanac/raw/main/%E6%88%AA%E5%9B%BE/%E6%9C%88%E5%8E%86.jpg)
 
-## 下载 v1.0.1.2
-* [github（需要.net6.0）](https://github.com/tp1415926535/Almanac/raw/main/%E9%BB%84%E5%8E%86v1.0.1.2-%E4%BE%9D%E8%B5%96.Net6.0.zip)
-* [蓝奏云（需要.net6.0）](https://wwp.lanzn.com/iyJgb21foy0h)
-* [蓝奏云（独立包，不需要额外安装.Net6）](https://wwp.lanzn.com/i94NP21foz2f)
+## 下载 v1.0.1.3
+* [github（需要.net6.0）](https://github.com/tp1415926535/Almanac/raw/main/%E9%BB%84%E5%8E%86v1.0.1.3-%E4%BE%9D%E8%B5%96.Net6.0.zip)
+* [蓝奏云（需要.net6.0）](https://wwp.lanzn.com/iOmhG241da6h)
+* [蓝奏云（独立包，不需要额外安装.Net6）](https://wwp.lanzn.com/iwUKX241daij)
 
 ## 功能
 * 黄历
@@ -48,6 +48,7 @@
 
 
 ## 更新说明
+* v1.0.1.3 2024/7/10 修复零点之后当天日期不会改变
 * v1.0.1.2 2024/6/10 主界面新增节日显示
 * v1.0.1.1 2024/6/9 修复展开月历时重启程序展开收起状态不正常
 * v1.0.1.0 2024/5/12 支持毛玻璃效果
