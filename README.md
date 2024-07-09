@@ -5,7 +5,7 @@
 ![月历](https://github.com/tp1415926535/Almanac/raw/main/%E6%88%AA%E5%9B%BE/%E6%9C%88%E5%8E%86.jpg)
 
 ## 下载 v1.0.1.3
-* [github（需要.net6.0）](https://github.com/tp1415926535/Almanac/raw/main/%E9%BB%84%E5%8E%86v1.0.1.3-%E4%BE%9D%E8%B5%96.Net6.0.zip)
+* [github（需要.net6.0）](https://github.com/tp1415926535/Almanac/raw/main/%E9%BB%84%E5%8E%86v1.0.1.3-%E4%BE%9D%E8%B5%96.Net6.0.rar)
 * [蓝奏云（需要.net6.0）](https://wwp.lanzn.com/iOmhG241da6h)
 * [蓝奏云（独立包，不需要额外安装.Net6）](https://wwp.lanzn.com/iwUKX241daij)
 
