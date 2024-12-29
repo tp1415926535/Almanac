@@ -4,10 +4,10 @@
 ![黄历](https://github.com/tp1415926535/Almanac/raw/main/%E6%88%AA%E5%9B%BE/%E9%BB%84%E5%8E%86.jpg)   
 ![月历](https://github.com/tp1415926535/Almanac/raw/main/%E6%88%AA%E5%9B%BE/%E6%9C%88%E5%8E%86.jpg)
 
-## 下载 v1.0.2.0
-* [github（需要.net6.0）](https://github.com/tp1415926535/Almanac/raw/main/%E9%BB%84%E5%8E%86v1.0.2.0-%E4%BE%9D%E8%B5%96.Net6.0.zip)
-* [蓝奏云（需要.net6.0）](https://wwvr.lanzn.com/iaVLL2ijjnif)
-* [蓝奏云（独立包，不需要额外安装.Net6）](https://wwvr.lanzn.com/iZHE52ijjnhe)
+## 下载 v1.0.3.0
+* [github（需要.net6.0）](https://github.com/tp1415926535/Almanac/raw/main/%E9%BB%84%E5%8E%86v1.0.3.0-%E4%BE%9D%E8%B5%96.Net6.0.zip)
+* [蓝奏云（需要.net6.0）](https://wwvr.lanzn.com/izbYY2jdhg3g)
+* [蓝奏云（独立包，不需要额外安装.Net6）](https://wwvr.lanzn.com/iloe72jdhfyb)
 
 ## 功能
 * 黄历
@@ -48,6 +48,7 @@
 
 
 ## 更新说明
+* v1.0.3.0 2024/12/30 增加折叠状态；修复程序锁唯一标识中文的潜在错误
 * v1.0.2.0 2024/12/19 修复引用内部不合理导致切换月份卡顿的性能问题
 * v1.0.1.4 2024/7/14 调整布局，避免下方内容被遮挡
 * v1.0.1.3 2024/7/10 修复零点之后当天日期不会改变
