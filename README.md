@@ -6,8 +6,8 @@
 
 ## 下载 v1.0.3.0
 * [github（需要.net6.0）](https://github.com/tp1415926535/Almanac/raw/main/%E9%BB%84%E5%8E%86v1.0.3.0-%E4%BE%9D%E8%B5%96.Net6.0.zip)
-* [蓝奏云（需要.net6.0）](https://wwvr.lanzn.com/izbYY2jdhg3g)
-* [蓝奏云（独立包，不需要额外安装.Net6）](https://wwvr.lanzn.com/iloe72jdhfyb)
+* [蓝奏云（需要.net6.0）](https://wwvr.lanzn.com/ilPLn2jdk0qb)
+* [蓝奏云（独立包，不需要额外安装.Net6）](https://wwvr.lanzn.com/iWM6p2jdk0mh)
 
 ## 功能
 * 黄历
