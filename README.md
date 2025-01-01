@@ -4,10 +4,10 @@
 ![黄历](https://github.com/tp1415926535/Almanac/raw/main/%E6%88%AA%E5%9B%BE/%E9%BB%84%E5%8E%86.jpg)   
 ![月历](https://github.com/tp1415926535/Almanac/raw/main/%E6%88%AA%E5%9B%BE/%E6%9C%88%E5%8E%86.jpg)
 
-## 下载 v1.0.3.0
-* [github（需要.net6.0）](https://github.com/tp1415926535/Almanac/raw/main/%E9%BB%84%E5%8E%86v1.0.3.0-%E4%BE%9D%E8%B5%96.Net6.0.zip)
-* [蓝奏云（需要.net6.0）](https://wwvr.lanzn.com/ilPLn2jdk0qb)
-* [蓝奏云（独立包，不需要额外安装.Net6）](https://wwvr.lanzn.com/iWM6p2jdk0mh)
+## 下载 v1.0.3.1
+* [github（需要.net6.0）](https://github.com/tp1415926535/Almanac/raw/main/%E9%BB%84%E5%8E%86v1.0.3.1-%E4%BE%9D%E8%B5%96.Net6.0.zip)
+* [蓝奏云（需要.net6.0）](https://wwvr.lanzn.com/iaq7U2jlrpoj)
+* [蓝奏云（独立包，不需要额外安装.Net6）](https://wwvr.lanzn.com/iosy52jlrqxe)
 
 ## 功能
 * 黄历
