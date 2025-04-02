@@ -4,10 +4,9 @@
 ![黄历](https://github.com/tp1415926535/Almanac/raw/main/%E6%88%AA%E5%9B%BE/%E9%BB%84%E5%8E%86.jpg)   
 ![月历](https://github.com/tp1415926535/Almanac/raw/main/%E6%88%AA%E5%9B%BE/%E6%9C%88%E5%8E%86.jpg)
 
-## 下载 v1.0.3.1
-* [github（需要.net6.0）](https://github.com/tp1415926535/Almanac/raw/main/%E9%BB%84%E5%8E%86v1.0.3.1-%E4%BE%9D%E8%B5%96.Net6.0.zip)
-* [蓝奏云（需要.net6.0）](https://wwvr.lanzn.com/iaq7U2jlrpoj)
-* [蓝奏云（独立包，不需要额外安装.Net6）](https://wwvr.lanzn.com/iosy52jlrqxe)
+## 下载 v1.0.4.0
+* [github](https://github.com/tp1415926535/Almanac/raw/main/%E9%BB%84%E5%8E%86v1.0.4.0.zip)
+* [蓝奏云](https://wwvr.lanzn.com/iQUbT2shqu0j)
 
 ## 功能
 * 黄历
@@ -48,6 +47,7 @@
 
 
 ## 更新说明
+* v1.0.4.0 2025/4/2 修复清明节不在农历节日的问题；编译框架改到.Net Framework4.72,不再需要额外安装运行时
 * v1.0.3.1 2025/1/1 折叠状态的最大化最小化按钮和今天按钮逻辑优化调整
 * v1.0.3.0 2024/12/30 增加折叠状态；修复程序锁唯一标识中文的潜在错误
 * v1.0.2.0 2024/12/19 修复引用内部不合理导致切换月份卡顿的性能问题
